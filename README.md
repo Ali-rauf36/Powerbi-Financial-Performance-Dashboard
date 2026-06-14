@@ -17,7 +17,6 @@ regions covering 2021–2023.
 - 14 DAX measures including time intelligence and conditional
 - Conditional formatting across all 4 pages
 - Dynamic title updating with slicer selection
-- Professional page navigation sidebar
 - Gauge visual for budget tracking
 
 ## Tech Stack
